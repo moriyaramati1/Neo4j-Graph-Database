@@ -14,8 +14,8 @@ There are 2 types of nodes:
 
 For creating the Nodes and Relationships i used py2neo package.
 
-Friends_data.csv - contains the data about friends' characters.
-friends.py - contains the flask app and functions for building the graph.
-DokerFile - for creating the container for the application.
-docker-compose- for creating the database container and app container and interacting between them.
-templates folder - for HTML files of each query.
+- Friends_data.csv - contains the data about friends' characters.
+- friends.py - contains the flask app and functions for building the graph.
+- DokerFile - for creating the container for the application.
+- docker-compose- for creating the database container and app container and interacting between them.
+- templates folder - for HTML files of each query.
